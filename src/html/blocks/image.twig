@@ -1,0 +1,27 @@
+{# @formatter:off #}
+{% set image = getImage(src, srcset) %}
+{% if image.hash %}
+    {% if ampEnabled %}
+        <amp-img
+    {% else %}
+        <img
+    {% endif %}
+            {% if classes %}class="{{ classes }}"{% endif %}
+            {% if alt %}alt="{{ alt }}"{% endif %}
+            src="{{ image.src ~ '?key=' ~ (image.hash|slice(0,12)) }}"
+            width="{{ image.width }}"
+            height="{{ image.height }}"
+
+    {% if srcset %}srcset="{% for set in srcset %}{{ addImageSuffix(image.src, '_'~set.w~'w') ~ '?key=' ~ (image.hash|slice(0,12))~' '~set.w~'w' }}{% if loop.index < (srcset|length) %}, {% endif %}{% endfor %}"{% endif %}
+    {% if sizes %}sizes="{{ sizes }}"{% endif %}
+
+    {% if ampEnabled %}
+            layout="{{ layout ?: 'responsive'}}"
+        >
+        </amp-img>
+    {% else %}
+        >
+    {% endif %}
+{% endif %}
+
+{# @formatter:on #}

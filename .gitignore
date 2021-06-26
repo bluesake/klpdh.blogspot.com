@@ -1,0 +1,25 @@
+/coverage
+/build
+
+# env variables
+.env
+.npmrc
+
+# default upload dir
+/upload
+
+# NodeJS
+node_modules
+
+# Webpack profiling
+profile.json
+
+# Mac
+.DS_Store
+
+#
+## JetBrains IDE's
+
+.idea/
+*.iml
+*.iws

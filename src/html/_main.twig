@@ -1,0 +1,50 @@
+<!doctype html>
+<html{% if ampEnabled %} amp{% endif %}{% if head.lang %} lang="{{ head.lang }}"{% endif %}>
+<head>
+    <meta charset="utf-8">
+
+    {% block head_meta %}
+    {% endblock %}
+
+    {% if ampEnabled %}
+        {% set amp_version = '0.1' %}
+        <script async src="https://cdn.ampproject.org/v0.js"></script>
+        <script custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-{{ amp_version }}.js" async=""></script>
+    {% endif %}
+
+    {% block head_style %}
+    {% endblock %}
+</head>
+<body>
+{% block body %}
+    {% block header %}
+        <div class="header">
+            {% block header_inner %}
+                <header class="header--inner">
+                    {% block header_inner__ %}{% endblock %}
+                </header>
+            {% endblock %}
+        </div>
+    {% endblock %}
+
+    {% block container_inner %}
+        {% block content %}
+        {% endblock %}
+    {% endblock %}
+
+    {% block footer %}
+        <div class="footer">
+            {% block footer_inner %}
+                <footer class="footer--inner">
+                    {% block footer_inner__ %}{% endblock %}
+                </footer>
+            {% endblock %}
+        </div>
+    {% endblock %}
+
+    {% block body_end %}{% endblock %}
+
+    {% block foot_js %}{% endblock %}
+{% endblock %}
+</body>
+</html>

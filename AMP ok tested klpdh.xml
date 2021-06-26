@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html amp>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MobiSAKE v4.7.1, klpdh.blogspot.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo-1.png" type="image/x-icon">
+  <title>BLUE_SAKE </title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="canonical" href="index.html">
+ <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+<noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,500,600,700&subset=cyrillic" rel="stylesheet">
+ 
+ <style amp-custom> 
+div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption,textarea,input{font: inherit;}section{background-color: #eeeeee;}section,.container,.container-fluid{position: relative;word-wrap: break-word;}a.mbr-iconfont:hover{text-decoration: none;}.article .lead p,.article .lead ul,.article .lead ol,.article .lead pre,.article .lead blockquote{margin-bottom: 0;}a{font-style: normal;font-weight: 400;cursor: pointer;}a,a:hover{text-decoration: none;}figure{margin-bottom: 0;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.display-1,.display-2,.display-3,.display-4{line-height: 1;word-break: break-word;word-wrap: break-word;}b,strong{font-weight: bold;}blockquote{padding: 10px 0 10px 20px;position: relative;border-left: 2px solid;border-color: #ff3366;}input:-webkit-autofill,input:-webkit-autofill:hover,input:-webkit-autofill:focus,input:-webkit-autofill:active{transition-delay: 9999s;transition-property: background-color,color;}textarea[type="hidden"]{display: none;}body{position: relative;}section{background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;}section .mbr-background-video,section .mbr-background-video-preview{position: absolute;bottom: 0;left: 0;right: 0;top: 0;}.row{display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;-webkit-flex-wrap: wrap;-ms-flex-wrap: wrap;flex-wrap: wrap;margin-right: -15px;margin-left: -15px;}@media (min-width: 576px){.row{margin-right: -15px;margin-left: -15px;}}@media (min-width: 768px){.row{margin-right: -15px;margin-left: -15px;}}@media (min-width: 992px){.row{margin-right: -15px;margin-left: -15px;}}@media (min-width: 1200px){.row{margin-right: -15px;margin-left: -15px;}}.hidden{visibility: hidden;}.mbr-z-index20{z-index: 20;}.mbr-white{color: #ffffff;}.mbr-black{color: #000000;}.mbr-bg-white{background-color: #ffffff;}.mbr-bg-black{background-color: #000000;}.align-left{text-align: left;}.align-center{text-align: center;}.align-right{text-align: right;}@media (max-width: 767px){.align-left,.align-center,.align-right,.mbr-section-btn,.mbr-section-title{text-align: center;}}.mbr-light{font-weight: 300;}.mbr-regular{font-weight: 400;}.mbr-semibold{font-weight: 500;}.mbr-bold{font-weight: 700;}.mbr-figure img,.mbr-figure iframe{display: block;width: 100%;}.card{background-color: transparent;border: none;}.card-img{text-align: center;flex-shrink: 0;}.media{max-width: 100%;margin: 0 auto;}.mbr-figure{-ms-flex-item-align: center;-ms-grid-row-align: center;-webkit-align-self: center;align-self: center;}.media-container > div{max-width: 100%;}.mbr-figure img,.card-img img{width: 100%;}@media (max-width: 991px){.media-size-item{width: auto;}.media{width: auto;}.mbr-figure{width: 100%;}}.mbr-section-btn{margin-left: -.25rem;margin-right: -.25rem;font-size: 0;}nav .mbr-section-btn{margin-left: 0rem;margin-right: 0rem;}.btn .mbr-iconfont,.btn.btn-sm .mbr-iconfont{cursor: pointer;margin-right: 0.5rem;}.btn.btn-md .mbr-iconfont,.btn.btn-md .mbr-iconfont{margin-right: 0.8rem;}[type="submit"]{-webkit-appearance: none;}.mbr-fullscreen .mbr-overlay{min-height: 100vh;}.mbr-fullscreen{display: flex;display: -webkit-flex;display: -moz-flex;display: -ms-flex;display: -o-flex;align-items: center;-webkit-align-items: center;min-height: 100vh;box-sizing: border-box;padding-top: 3rem;padding-bottom: 3rem;}amp-img img{max-height: 100%;max-width: 100%;}img.mbr-temp{width: 100%;}.super-hide{display: none;}.is-builder .nodisplay + img[async],.is-builder .nodisplay + img[decoding="async"],.is-builder amp-img > a + img[async],.is-builder amp-img > a + img[decoding="async"]{display: none;}html:not(.is-builder) amp-img > a{position: absolute;top: 0;bottom: 0;left: 0;right: 0;z-index: 1;}.is-builder .temp-amp-sizer{position: absolute;}.is-builder amp-youtube .temp-amp-sizer,.is-builder amp-vimeo .temp-amp-sizer{position: static;}.is-builder section.horizontal-menu .ampstart-btn{display: none;}@media (max-width: 991px){.is-builder section.horizontal-menu .navbar-toggler{display: block;}}.is-builder section.horizontal-menu .dropdown-menu{z-index: auto;opacity: 1;pointer-events: auto;}.is-builder section.horizontal-menu .nav-dropdown .link.dropdown-toggle[aria-expanded="true"]{margin-right: 0;padding: 0.667em 1em;}
+*{box-sizing: border-box;}body{font-family: Source Sans Pro;font-style: normal;line-height: 1.5;}.mbr-section-title{font-style: normal;line-height: 55px;}.mbr-section-subtitle{line-height: 1.3;}.mbr-text{font-style: normal;line-height: 1.3;}.display-1{font-family: 'Source Sans Pro',sans-serif;font-size: 5.6rem;}.display-2{font-family: 'Source Sans Pro',sans-serif;font-size: 3.4rem;}.display-3{font-family: 'Source Sans Pro',sans-serif;font-size: 2.4rem;}.display-4{font-family: 'Source Sans Pro',sans-serif;font-size: 1.8rem;}.display-5{font-family: 'Source Sans Pro',sans-serif;font-size: 1.4rem;}.display-6{font-family: 'Source Sans Pro',sans-serif;font-size: 1rem;}.display-7{font-family: 'Source Sans Pro',sans-serif;font-size: 0.8rem;}@media (max-width: 768px){.display-1{font-size: 4.48rem;font-size: calc( 2.61rem + (5.6 - 2.61) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (2.61rem + (5.6 - 2.61) * ((100vw - 20rem) / (48 - 20))));}.display-2{font-size: 2.72rem;font-size: calc( 1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));}.display-3{font-size: 1.92rem;font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));}.display-4{font-size: 1.44rem;font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));}.display-5{font-size: 1.12rem;font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));}.display-6{font-size: 0.8rem;font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));}.display-5{font-size: 0.64rem;font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));}}.mbr-overlay{width: 100%;height: 100%;position: absolute;top: 0;}.btn-arrow{font-weight: 400;border-width: 0px;border-style: solid;background: none;font-style: normal;letter-spacing: 2px;margin: .4rem .25rem;white-space: normal;transition-property: background-color,color,border-color,box-shadow;transition-duration: .3s,.3s,.3s,2s;transition-timing-function: ease-in-out;display: inline-flex;align-items: center;justify-content: center;word-break: break-word;}.btn{font-weight: 700;border-width: 2px;border-style: solid;font-style: normal;letter-spacing: 2px;margin: .4rem .25rem;white-space: normal;transition-property: background-color,color,border-color,box-shadow;transition-duration: .3s,.3s,.3s,2s;transition-timing-function: ease-in-out;padding: 0.8rem 2rem;border-radius: 3px;display: inline-flex;align-items: center;justify-content: center;word-break: break-word;}a.btn{box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.2);}.btn-sm{border: 1px solid;font-weight: 700;letter-spacing: 2px;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;padding: 0.6rem 0.8rem;border-radius: 3px;}.btn-md{font-weight: 600;letter-spacing: 2px;margin: .4rem .8rem;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;padding: 1rem 2rem;border-radius: 3px;}.bg-primary{background-color: #e3699a;}.bg-success{background-color: #361291;}.bg-info{background-color: #30d5a5;}.bg-warning{background-color: #022e93;}.bg-danger{background-color: #0a193b;}.btn-primary,.btn-primary:active,.btn-primary.active{background-color: #e3699a;border-color: #e3699a;color: #ffffff;}.btn-primary:hover,.btn-primary:focus,.btn-primary.focus{color: #ffffff;background-color: #d7296f;border-color: #d7296f;}.btn-primary.disabled,.btn-primary:disabled{color: #ffffff;background-color: #d7296f;border-color: #d7296f;}.btn-secondary,.btn-secondary:active,.btn-secondary.active{background-color: #ec7499;border-color: #ec7499;color: #ffffff;}.btn-secondary:hover,.btn-secondary:focus,.btn-secondary.focus{color: #ffffff;background-color: #e33168;border-color: #e33168;}.btn-secondary.disabled,.btn-secondary:disabled{color: #ffffff;background-color: #e33168;border-color: #e33168;}.btn-info,.btn-info:active,.btn-info.active{background-color: #30d5a5;border-color: #30d5a5;color: #ffffff;}.btn-info:hover,.btn-info:focus,.btn-info.focus{color: #ffffff;background-color: #1f9976;border-color: #1f9976;}.btn-info.disabled,.btn-info:disabled{color: #ffffff;background-color: #1f9976;border-color: #1f9976;}.btn-success,.btn-success:active,.btn-success.active{background-color: #361291;border-color: #361291;color: #ffffff;}.btn-success:hover,.btn-success:focus,.btn-success.focus{color: #ffffff;background-color: #1d0a4d;border-color: #1d0a4d;}.btn-success.disabled,.btn-success:disabled{color: #ffffff;background-color: #1d0a4d;border-color: #1d0a4d;}.btn-warning,.btn-warning:active,.btn-warning.active{background-color: #022e93;border-color: #022e93;color: #ffffff;}.btn-warning:hover,.btn-warning:focus,.btn-warning.focus{color: #ffffff;background-color: #011648;border-color: #011648;}.btn-warning.disabled,.btn-warning:disabled{color: #ffffff;background-color: #011648;border-color: #011648;}.btn-danger,.btn-danger:active,.btn-danger.active{background-color: #0a193b;border-color: #0a193b;color: #ffffff;}.btn-danger:hover,.btn-danger:focus,.btn-danger.focus{color: #ffffff;background-color: #000000;border-color: #000000;}.btn-danger.disabled,.btn-danger:disabled{color: #ffffff;background-color: #000000;border-color: #000000;}.btn-black,.btn-black:active,.btn-black.active{background-color: #333333;border-color: #333333;color: #ffffff;}.btn-black:hover,.btn-black:focus,.btn-black.focus{color: #ffffff;background-color: #0d0d0d;border-color: #0d0d0d;}.btn-black.disabled,.btn-black:disabled{color: #ffffff;background-color: #0d0d0d;border-color: #0d0d0d;}.btn-white,.btn-white:active,.btn-white.active{background-color: #ffffff;border-color: #ffffff;color: #808080;}.btn-white:hover,.btn-white:focus,.btn-white.focus{color: #808080;background-color: #d9d9d9;border-color: #d9d9d9;}.btn-white.disabled,.btn-white:disabled{color: #808080;background-color: #d9d9d9;border-color: #d9d9d9;}.btn-white,.btn-white:active,.btn-white.active{color: #333333;}.btn-white:hover,.btn-white:focus,.btn-white.focus{color: #333333;}.btn-white.disabled,.btn-white:disabled{color: #333333;}.btn-primary-outline,.btn-primary-outline:active,.btn-primary-outline.active{background: none;border-color: #c22463;color: #c22463;}.btn-primary-outline:hover,.btn-primary-outline:focus,.btn-primary-outline.focus{color: #ffffff;background-color: #e3699a;border-color: #e3699a;}.btn-primary-outline.disabled,.btn-primary-outline:disabled{color: #ffffff;background-color: #e3699a;border-color: #e3699a;}.btn-secondary-outline,.btn-secondary-outline:active,.btn-secondary-outline.active{background: none;border-color: #dc1e59;color: #dc1e59;}.btn-secondary-outline:hover,.btn-secondary-outline:focus,.btn-secondary-outline.focus{color: #ffffff;background-color: #ec7499;border-color: #ec7499;}.btn-secondary-outline.disabled,.btn-secondary-outline:disabled{color: #ffffff;background-color: #ec7499;border-color: #ec7499;}.btn-info-outline,.btn-info-outline:active,.btn-info-outline.active{background: none;border-color: #1b8466;color: #1b8466;}.btn-info-outline:hover,.btn-info-outline:focus,.btn-info-outline.focus{color: #ffffff;background-color: #30d5a5;border-color: #30d5a5;}.btn-info-outline.disabled,.btn-info-outline:disabled{color: #ffffff;background-color: #30d5a5;border-color: #30d5a5;}.btn-success-outline,.btn-success-outline:active,.btn-success-outline.active{background: none;border-color: #140736;color: #140736;}.btn-success-outline:hover,.btn-success-outline:focus,.btn-success-outline.focus{color: #ffffff;background-color: #361291;border-color: #361291;}.btn-success-outline.disabled,.btn-success-outline:disabled{color: #ffffff;background-color: #361291;border-color: #361291;}.btn-warning-outline,.btn-warning-outline:active,.btn-warning-outline.active{background: none;border-color: #010f2e;color: #010f2e;}.btn-warning-outline:hover,.btn-warning-outline:focus,.btn-warning-outline.focus{color: #ffffff;background-color: #022e93;border-color: #022e93;}.btn-warning-outline.disabled,.btn-warning-outline:disabled{color: #ffffff;background-color: #022e93;border-color: #022e93;}.btn-danger-outline,.btn-danger-outline:active,.btn-danger-outline.active{background: none;border-color: #000000;color: #000000;}.btn-danger-outline:hover,.btn-danger-outline:focus,.btn-danger-outline.focus{color: #ffffff;background-color: #0a193b;border-color: #0a193b;}.btn-danger-outline.disabled,.btn-danger-outline:disabled{color: #ffffff;background-color: #0a193b;border-color: #0a193b;}.btn-black-outline,.btn-black-outline:active,.btn-black-outline.active{background: none;border-color: #000000;color: #000000;}.btn-black-outline:hover,.btn-black-outline:focus,.btn-black-outline.focus{color: #ffffff;background-color: #333333;border-color: #333333;}.btn-black-outline.disabled,.btn-black-outline:disabled{color: #ffffff;background-color: #333333;border-color: #333333;}.btn-white-outline,.btn-white-outline:active,.btn-white-outline.active{background: none;border-color: #ffffff;color: #ffffff;}.btn-white-outline:hover,.btn-white-outline:focus,.btn-white-outline.focus{color: #333333;background-color: #ffffff;border-color: #ffffff;}.text-primary{color: #e3699a;}.text-secondary{color: #ec7499;}.text-success{color: #361291;}.text-info{color: #30d5a5;}.text-warning{color: #022e93;}.text-danger{color: #0a193b;}.text-white{color: #ffffff;}.text-black{color: #000000;}a.text-primary:hover,a.text-primary:focus{color: #c22463;}a.text-secondary:hover,a.text-secondary:focus{color: #dc1e59;}a.text-success:hover,a.text-success:focus{color: #140736;}a.text-info:hover,a.text-info:focus{color: #1b8466;}a.text-warning:hover,a.text-warning:focus{color: #010f2e;}a.text-danger:hover,a.text-danger:focus{color: #000000;}a.text-white:hover,a.text-white:focus{color: #b3b3b3;}a.text-black:hover,a.text-black:focus{color: #4d4d4d;}.alert-success{background-color: #361291;}.alert-info{background-color: #30d5a5;}.alert-warning{background-color: #022e93;}.alert-danger{background-color: #0a193b;}.btn-form{border-radius: 3px;}.btn-form:hover{cursor: pointer;}a,a:hover{color: #e3699a;}.mbr-plan-header.bg-primary .mbr-plan-subtitle,.mbr-plan-header.bg-primary .mbr-plan-price-desc{color: #ffffff;}.mbr-plan-header.bg-success .mbr-plan-subtitle,.mbr-plan-header.bg-success .mbr-plan-price-desc{color: #6c3ce7;}.mbr-plan-header.bg-info .mbr-plan-subtitle,.mbr-plan-header.bg-info .mbr-plan-price-desc{color: #daf7ef;}.mbr-plan-header.bg-warning .mbr-plan-subtitle,.mbr-plan-header.bg-warning .mbr-plan-price-desc{color: #195efc;}.mbr-plan-header.bg-danger .mbr-plan-subtitle,.mbr-plan-header.bg-danger .mbr-plan-price-desc{color: #4a78e0;}blockquote{padding: 10px 0 10px 20px;position: relative;border-color: #e3699a;border-width: 3px;}ul,ol,pre,blockquote{margin-bottom: 0;margin-top: 0;}pre{background: #f4f4f4;padding: 10px 24px;white-space: pre-wrap;}.inactive{-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;pointer-events: none;-webkit-user-drag: none;user-drag: none;}html,body{height: auto;min-height: 100vh;}.popover-content ul.show{min-height: 155px;}#scrollToTop{display: none;}.mbr-container{max-width: 800px;padding: 0 10px;margin: 0 auto;position: relative;}h1,h2,h3{margin: auto;}h1,h3,p{padding: 10px 0;margin-bottom: 15px;}p,li,blockquote{color: #15181b;letter-spacing: 0.5px;line-height: 1.7;}.container{padding-right: 15px;padding-left: 15px;width: 100%;margin-right: auto;margin-left: auto;}@media (max-width: 767px){.container{max-width: 540px;}}@media (min-width: 768px){.container{max-width: 720px;}}@media (min-width: 992px){.container{max-width: 960px;}}@media (min-width: 1200px){.container{max-width: 1140px;}}.mbr-row{display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;-webkit-flex-wrap: wrap;-ms-flex-wrap: wrap;flex-wrap: wrap;margin-right: -15px;margin-left: -15px;}.mbr-justify-content-center{justify-content: center;}.mbr-justify-content-left{justify-content: flex-start;}.mbr-justify-content-right{justify-content: flex-end;}@media (max-width: 767px){.mbr-col-sm-2{-ms-flex: 0 0 16.666667%;flex: 0 0 16.666667%;max-width: 16.666667%;padding-right: 15px;padding-left: 15px;}.mbr-col-sm-8{-ms-flex: 0 0 66.666667%;flex: 0 0 66.666667%;max-width: 66.666667%;padding-left: 15px;padding-right: 15px;}.mbr-col-sm-12{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;padding-right: 15px;padding-left: 15px;}.mbr-row{margin: 0;}}@media (min-width: 768px){.mbr-col-md-2{-ms-flex: 0 0 16.666667%;flex: 0 0 16.666667%;max-width: 16.666667%;padding-right: 15px;padding-left: 15px;}.mbr-col-md-3{-ms-flex: 0 0 25%;flex: 0 0 25%;max-width: 25%;padding-right: 15px;padding-left: 15px;}.mbr-col-md-4{-ms-flex: 0 0 33.333333%;flex: 0 0 33.333333%;max-width: 33.333333%;padding-right: 15px;padding-left: 15px;}.mbr-col-md-5{-ms-flex: 0 0 41.666667%;flex: 0 0 41.666667%;max-width: 41.666667%;padding-right: 15px;padding-left: 15px;}.mbr-col-md-6{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;padding-right: 15px;padding-left: 15px;}.mbr-col-md-7{-ms-flex: 0 0 58.333333%;flex: 0 0 58.333333%;max-width: 58.333333%;padding-right: 15px;padding-left: 15px;}.mbr-col-md-8{-ms-flex: 0 0 66.666667%;flex: 0 0 66.666667%;max-width: 66.666667%;padding-left: 15px;padding-right: 15px;}.mbr-col-md-9{-ms-flex: 0 0 75%;flex: 0 0 75%;max-width: 75%;padding-left: 15px;padding-right: 15px;}.mbr-col-md-10{-ms-flex: 0 0 83.333333%;flex: 0 0 83.333333%;max-width: 83.333333%;padding-left: 15px;padding-right: 15px;}.mbr-col-md-12{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;padding-right: 15px;padding-left: 15px;}}@media (min-width: 992px){.mbr-col-lg-1{-ms-flex: 0 0 8.333333%;flex: 0 0 8.333333%;max-width: 8.333333;padding-right: 15px;padding-left: 15px;}.mbr-col-lg-2{-ms-flex: 0 0 16.666667%;flex: 0 0 16.666667%;max-width: 16.666667%;padding-right: 15px;padding-left: 15px;}.mbr-col-lg-3{-ms-flex: 0 0 25%;flex: 0 0 25%;max-width: 25%;padding-right: 15px;padding-left: 15px;}.mbr-col-lg-4{-ms-flex: 0 0 33.33%;flex: 0 0 33.33%;max-width: 33.33%;padding-right: 15px;padding-left: 15px;}.mbr-col-lg-5{-ms-flex: 0 0 41.666%;flex: 0 0 41.666%;max-width: 41.666%;padding-right: 15px;padding-left: 15px;}.mbr-col-lg-6{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;padding-right: 15px;padding-left: 15px;}.mbr-col-lg-7{-ms-flex: 0 0 58.333333%;flex: 0 0 58.333333%;max-width: 58.333333%;padding-right: 15px;padding-left: 15px;}.mbr-col-lg-8{-ms-flex: 0 0 66.666667%;flex: 0 0 66.666667%;max-width: 66.666667%;padding-left: 15px;padding-right: 15px;}.mbr-col-lg-9{-ms-flex: 0 0 75%;flex: 0 0 75%;max-width: 75%;padding-left: 15px;padding-right: 15px;}.mbr-col-lg-10{-ms-flex: 0 0 83.3333%;flex: 0 0 83.3333%;max-width: 83.3333%;padding-right: 15px;padding-left: 15px;}.mbr-col-lg-12{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;padding-right: 15px;padding-left: 15px;}}@media (min-width: 1201px){.mbr-col-xl-7{-ms-flex: 0 0 58.333333%;flex: 0 0 58.333333%;max-width: 58.333333%;padding-right: 15px;padding-left: 15px;}.mbr-col-xl-8{-ms-flex: 0 0 66.666667%;flex: 0 0 66.666667%;max-width: 66.666667%;padding-left: 15px;padding-right: 15px;}.mbr-col-xl-5{-ms-flex: 0 0 41.666667%;flex: 0 0 41.666667%;max-width: 41.666667%;}}section.sidebar-open:before{content: '';position: fixed;top: 0;bottom: 0;right: 0;left: 0;background-color: rgba(0,0,0,0.2);z-index: 1040;}p{margin-top: 0;}body{font-weight: 300;}form input,form textarea{padding: 1rem;border: 1px solid #e0e0e0;background: #f3f4f5;}form .fieldset{display: flex;justify-content: center;flex-wrap: wrap;align-items: center;}div[submit-success]{background: #361291;padding: 1rem;margin-bottom: 1rem;}div[submit-error]{background: #0a193b;padding: 1rem;margin-bottom: 1rem;}.mobirise-spinner{position: absolute;top: 50%;left: 40%;margin-left: 10%;-webkit-transform: translate3d(-50%,-50%,0);z-index: 4;}.mobirise-spinner em{width: 24px;height: 24px;background: #3ac;border-radius: 100%;display: inline-block;-webkit-animation: slide 1s infinite;}.mobirise-spinner em:nth-child(1){-webkit-animation-delay: 0.1s;background: #e3699a;}.mobirise-spinner em:nth-child(2){-webkit-animation-delay: 0.2s;background: #ec7499;}.mobirise-spinner em:nth-child(3){-webkit-animation-delay: 0.3s;background: #361291;}@-moz-keyframes slide{0%{-webkit-transform: scale(1);}50%{opacity: 0.3;-webkit-transform: scale(2);}100%{-webkit-transform: scale(1);}}@-webkit-keyframes slide{0%{-webkit-transform: scale(1);}50%{opacity: 0.3;-webkit-transform: scale(2);}100%{-webkit-transform: scale(1);}}@-o-keyframes slide{0%{-webkit-transform: scale(1);}50%{opacity: 0.3;-webkit-transform: scale(2);}100%{-webkit-transform: scale(1);}}@keyframes slide{0%{-webkit-transform: scale(1);}50%{opacity: 0.3;-webkit-transform: scale(2);}100%{-webkit-transform: scale(1);}}.mobirise-loader .amp-active > div{display: none;}.cid-qPygOsy71w .nav-item:focus,.cid-qPygOsy71w .nav-link:focus{outline: none;}.cid-qPygOsy71w .navbar-nav{list-style-type: none;display: flex;flex-direction: row;padding-left: 0;}.cid-qPygOsy71w .navbar-nav .nav-link{margin: 0.667em 1em;font-weight: normal;}.cid-qPygOsy71w .container{display: flex;}@media (max-width: 991px){.cid-qPygOsy71w ul.navbar-nav{flex-direction: column;}.cid-qPygOsy71w ul.navbar-nav li{margin: auto;}.cid-qPygOsy71w .dropdown-toggle[data-toggle="dropdown-submenu"]:after{content: "";margin-left: 0.25rem;border-top: 0.35em solid;border-right: 0.35em solid transparent;border-left: 0.35em solid transparent;border-bottom: 0;top: 55%;}.cid-qPygOsy71w .nav-dropdown .dropdown-menu .dropdown-item{justify-content: center;display: flex;align-items: center;}}.cid-qPygOsy71w .nav-dropdown .dropdown-menu{border-radius: 0;border: 0;left: 0;margin: 0;min-width: 10rem;padding-bottom: 1.25rem;padding-top: 1.25rem;position: absolute;}.cid-qPygOsy71w .nav-dropdown .dropdown-menu .dropdown-item{font-weight: 400;line-height: 2;display: flex;background: #0a57a2;align-items: center;width: 100%;padding: 0.25rem 1.5rem;clear: both;margin: 0.5rem;text-align: inherit;white-space: nowrap;border: 0;}.cid-qPygOsy71w .nav-dropdown .dropdown-menu .dropdown{position: relative;}.cid-qPygOsy71w .nav-item.dropdown{position: relative;}.cid-qPygOsy71w .nav-item.dropdown .dropdown-menu{z-index: -1;opacity: 0;pointer-events: none;}.cid-qPygOsy71w .nav-item.dropdown:hover > .dropdown-menu{z-index: 1;opacity: 1;pointer-events: all;}.cid-qPygOsy71w .dropdown-menu .dropdown:hover > .dropdown-menu{z-index: 1;opacity: 1;pointer-events: all;}.cid-qPygOsy71w .link.dropdown-toggle:after{content: "";margin-left: 0.25rem;border-top: 0.35em solid;border-right: 0.35em solid transparent;border-left: 0.35em solid transparent;border-bottom: 0;}.cid-qPygOsy71w .nav-dropdown .dropdown-submenu{top: 0;}.cid-qPygOsy71w .navbar{z-index: 100;display: flex;flex-direction: row;width: 100%;min-height: 77px;transition: all 0.3s;background: #0a57a2;}.cid-qPygOsy71w .navbar .navbar-logo{margin-right: 0.8rem;}.cid-qPygOsy71w .navbar .navbar-logo img{height: auto;}.cid-qPygOsy71w .navbar.navbar-short{background: #0a57a2;}.cid-qPygOsy71w .navbar.navbar-short .navbar-brand{padding: 0;}.cid-qPygOsy71w .navbar.opened{transition: all 0.3s;background: #0a57a2;}.cid-qPygOsy71w .navbar .dropdown-item{padding: 0.25rem 1.5rem;}.cid-qPygOsy71w .navbar .navbar-collapse{display: flex;justify-content: flex-end;z-index: 1;flex-basis: 100%;align-items: center;}.cid-qPygOsy71w .navbar.collapsed button.navbar-toggler{display: block;}.cid-qPygOsy71w .navbar.collapsed .navbar-collapse{display: none;position: absolute;top: 0;right: 0;min-height: 100vh;background: #0a57a2;padding: 1.5rem 2rem 1rem 2rem;}.cid-qPygOsy71w .navbar.collapsed.opened .navbar-collapse.show,.cid-qPygOsy71w .navbar.collapsed.opened .navbar-collapse.collapsing{display: block;}.cid-qPygOsy71w .navbar.collapsed.opened .dropdown-menu{top: 0;}.cid-qPygOsy71w .navbar.collapsed .dropdown-menu{position: relative;background: transparent;}.cid-qPygOsy71w .navbar.collapsed .dropdown-menu .dropdown-submenu{left: 0;}.cid-qPygOsy71w .navbar.collapsed .dropdown-menu .dropdown-item:after{right: auto;}.cid-qPygOsy71w .navbar.collapsed .dropdown-menu .dropdown-item{padding: 0.25rem 1.5rem;text-align: center;margin: 0;}.cid-qPygOsy71w .navbar.collapsed .navbar-brand{flex-shrink: initial;word-break: break-word;}@media (max-width: 991px){.cid-qPygOsy71w .navbar .navbar-collapse{display: none;position: absolute;top: 0;right: 0;min-height: 100vh;background: #0a57a2;padding: 1rem 2rem 1rem 2rem;}.cid-qPygOsy71w .navbar.opened .navbar-collapse.show,.cid-qPygOsy71w .navbar.opened .navbar-collapse.collapsing{display: block;}.cid-qPygOsy71w .navbar.opened .dropdown-menu{top: 0;}.cid-qPygOsy71w .navbar .dropdown-menu{position: relative;background: transparent;}.cid-qPygOsy71w .navbar .dropdown-menu .dropdown-submenu{left: 0;}.cid-qPygOsy71w .navbar .dropdown-menu .dropdown-item:after{right: auto;}.cid-qPygOsy71w .navbar .dropdown-menu .dropdown-item{padding: 0.25rem 1.5rem;text-align: center;margin: 0;}.cid-qPygOsy71w .navbar .navbar-brand{flex-shrink: initial;word-break: break-word;}}.cid-qPygOsy71w .navbar-brand{display: flex;flex-shrink: 0;align-items: center;margin-right: 0;padding: 0;transition: all 0.3s;word-break: break-word;z-index: 1;}.cid-qPygOsy71w .navbar-brand .navbar-caption{line-height: inherit;font-weight: normal;letter-spacing: 1px;display: flex;}.cid-qPygOsy71w .navbar-brand .navbar-logo a{outline: none;}.cid-qPygOsy71w .dropdown-item.active,.cid-qPygOsy71w .dropdown-item:active{background-color: transparent;}.cid-qPygOsy71w .navbar-expand-lg .navbar-nav .nav-link{padding: 0;}.cid-qPygOsy71w .navbar.navbar-expand-lg .dropdown .dropdown-menu{background-color: transparent;}.cid-qPygOsy71w .navbar.navbar-expand-lg .dropdown .dropdown-submenu{margin: 0;left: 100%;}.cid-qPygOsy71w .navbar .dropdown.open > .dropdown-menu{display: block;}.cid-qPygOsy71w ul.navbar-nav{flex-wrap: wrap;}.cid-qPygOsy71w .navbar-buttons{text-align: center;}.cid-qPygOsy71w button.navbar-toggler{display: none;outline: none;width: 31px;height: 20px;cursor: pointer;transition: all 0.2s;position: relative;align-self: center;}.cid-qPygOsy71w button.navbar-toggler .hamburger span{position: absolute;right: 0;width: 30px;height: 2px;border-right: 5px;background-color: #ffffff;}.cid-qPygOsy71w button.navbar-toggler .hamburger span:nth-child(1){top: 0;transition: all 0.2s;}.cid-qPygOsy71w button.navbar-toggler .hamburger span:nth-child(2){top: 8px;transition: all 0.15s;}.cid-qPygOsy71w button.navbar-toggler .hamburger span:nth-child(3){top: 8px;transition: all 0.15s;}.cid-qPygOsy71w button.navbar-toggler .hamburger span:nth-child(4){top: 16px;transition: all 0.2s;}.cid-qPygOsy71w nav.opened .navbar-toggler:not(.hide) .hamburger span:nth-child(1){top: 8px;width: 0;opacity: 0;right: 50%;transition: all 0.2s;}.cid-qPygOsy71w nav.opened .navbar-toggler:not(.hide) .hamburger span:nth-child(2){-webkit-transform: rotate(45deg);transform: rotate(45deg);transition: all 0.25s;}.cid-qPygOsy71w nav.opened .navbar-toggler:not(.hide) .hamburger span:nth-child(3){-webkit-transform: rotate(-45deg);transform: rotate(-45deg);transition: all 0.25s;}.cid-qPygOsy71w nav.opened .navbar-toggler:not(.hide) .hamburger span:nth-child(4){top: 8px;width: 0;opacity: 0;right: 50%;transition: all 0.2s;}.cid-qPygOsy71w .navbar-dropdown{padding: 0.5rem 1rem;position: fixed;}.cid-qPygOsy71w a.nav-link{display: flex;align-items: center;justify-content: center;letter-spacing: 2px;}.cid-qPygOsy71w .nav-link .mbr-iconfont,.cid-qPygOsy71w .dropdown-item .mbr-iconfont{margin-right: 0.2rem;}.cid-qPygOsy71w .ampstart-btn.hamburger{position: absolute;top: 25px;right: 20px;margin-left: auto;width: 30px;height: 20px;background: none;border: none;cursor: pointer;z-index: 1000;}.cid-qPygOsy71w .ampstart-btn.hamburger.sticky-but{position: fixed;}.cid-qPygOsy71w .ampstart-btn.hamburger:focus{outline: none;}.cid-qPygOsy71w .ampstart-btn.hamburger span{position: absolute;right: 0;width: 30px;height: 2px;border-right: 5px;background-color: #ffffff;}.cid-qPygOsy71w .ampstart-btn.hamburger span:nth-child(1){top: 0;transition: all 0.2s;}.cid-qPygOsy71w .ampstart-btn.hamburger span:nth-child(2){top: 8px;transition: all 0.15s;}.cid-qPygOsy71w .ampstart-btn.hamburger span:nth-child(3){top: 8px;transition: all 0.15s;}.cid-qPygOsy71w .ampstart-btn.hamburger span:nth-child(4){top: 16px;transition: all 0.2s;}@media (min-width: 992px){.cid-qPygOsy71w .ampstart-btn,.cid-qPygOsy71w amp-sidebar{display: none;}.cid-qPygOsy71w .dropdown-menu .dropdown-toggle:after{content: "";border-bottom: 0.35em solid transparent;border-left: 0.35em solid;border-right: 0;border-top: 0.35em solid transparent;margin-left: 0.3rem;margin-top: -0.3077em;position: absolute;right: 1.1538em;top: 50%;}}.cid-qPygOsy71w amp-sidebar{min-width: 260px;z-index: 1050;background-color: #0a57a2;}.cid-qPygOsy71w amp-sidebar.open:after{content: "";position: absolute;top: 0;left: 0;bottom: 0;right: 0;background-color: red;}.cid-qPygOsy71w .open{transform: translateX(0%);display: block;}.cid-qPygOsy71w .builder-sidebar{background-color: #0a57a2;position: relative;height: 100vh;z-index: 1030;padding: 1rem 2rem;max-width: 20rem;}.cid-qPygOsy71w .builder-sidebar .dropdown{position: relative;}.cid-qPygOsy71w .builder-sidebar .dropdown:hover > .dropdown-menu{position: relative;text-align: center;}.cid-qPygOsy71w .sidebar{padding: 1rem 0;margin: 0;}.cid-qPygOsy71w .sidebar > li{list-style: none;display: flex;flex-direction: column;}.cid-qPygOsy71w .sidebar a{display: block;text-decoration: none;margin-bottom: 10px;}.cid-qPygOsy71w .close-sidebar{width: 30px;height: 30px;position: relative;cursor: pointer;background-color: transparent;border: none;}.cid-qPygOsy71w .close-sidebar:focus{outline: 2px auto #e3699a;}.cid-qPygOsy71w .close-sidebar span{position: absolute;left: 0;width: 30px;height: 2px;border-right: 5px;background-color: #ffffff;}.cid-qPygOsy71w .close-sidebar span:nth-child(1){transform: rotate(45deg);}.cid-qPygOsy71w .close-sidebar span:nth-child(2){transform: rotate(-45deg);}.cid-qPygOsy71w amp-img{width: 50px;display: flex;align-items: center;}@media (max-width: 768px){.cid-qPygOsy71w amp-img{max-height: 55px;max-width: 55px;}}.cid-qPmwLlprpQ{padding-top: 11rem;padding-bottom: 11rem;background: linear-gradient(135deg,"file:///C:/Users/pavel/Desktop/StartupAMP/coworking//assets/images/mbr-1619x1080.jpg" 0%,#19a3c1 100%);background-image: url("assets/images/mbr-1619x1080.jpg");}.cid-qPmwLlprpQ .mbr-overlay{background-color: #000000;opacity: 0.5;}.cid-qPmwLlprpQ .mbr-overlay{background: linear-gradient(135deg,#000000 0%,#022e93 100%);opacity: 0.5;}.cid-qPmwLlprpQ .mbr-section-title{color: #ffffff;text-align: left;}.cid-qPmwLlprpQ .mbr-text,.cid-qPmwLlprpQ .mbr-section-btn{color: #ffffff;}.cid-qPmwLlprpQ h1{margin: 0;}.cid-qPmwLlprpQ p{margin-bottom: 2.5rem;}.cid-qPmwO3Sy9r{padding-top: 7rem;padding-bottom: 7rem;background-color: #f1f4fa;}.cid-qPmwO3Sy9r .mbr-overlay{background: linear-gradient(135deg,#000000 0%,#022e93 100%);opacity: 0.5;}.cid-qPmwO3Sy9r .mbr-text,.cid-qPmwO3Sy9r .mbr-section-btn{color: #313131;}.cid-qPmwO3Sy9r .mbr-iconfont{font-size: 3.5rem;background: -webkit-gradient(linear,left top,left bottom,from(#5fc7c6),to(#6394ff));-webkit-background-clip: text;-webkit-text-fill-color: transparent;margin-top: 1rem;margin-bottom: 2rem;}.cid-qPmwO3Sy9r .mbr-section-title{color: #0a193b;margin: 0;padding-top: 0.2rem;padding-bottom: 1rem;line-height: 25px;}.cid-qPmwO3Sy9r .padding{padding-bottom: 2rem;}.cid-qPmwO3Sy9r .vcenter{margin: auto;}.cid-qPmwO3Sy9r .mbr-text{padding: 0;margin: 0;}.cid-qPmwO3Sy9r p{line-height: 25px;}.cid-qPmwY2TwFk{padding-top: 7rem;padding-bottom: 7rem;background-color: #2bb4c5;background: linear-gradient(135deg,#2bb4c5 0%,#3c5ca2 100%);}.cid-qPmwY2TwFk .mbr-overlay{background: linear-gradient(135deg,#000000 0%,#022e93 100%);opacity: 0.5;}.cid-qPmwY2TwFk .mbr-section-title{color: #ffffff;text-align: center;}.cid-qPmwY2TwFk .mbr-text,.cid-qPmwY2TwFk .mbr-section-btn{color: #ffffff;text-align: center;}.cid-qPmx8fhO1W{padding-top: 7rem;padding-bottom: 7rem;background-color: #f1f4fa;}.cid-qPmx8fhO1W .mbr-overlay{background: linear-gradient(135deg,#000000 0%,#022e93 100%);opacity: 0.5;}.cid-qPmx8fhO1W .mbr-section-title{color: #ffffff;}.cid-qPmx8fhO1W .mbr-text,.cid-qPmx8fhO1W .mbr-section-btn{color: #ffffff;}.cid-qPmx8fhO1W .container{max-width: 900px;}.cid-qPmx8fhO1W .wrapper{padding: 50px;z-index: 2;margin: auto;}.cid-qPmx8fhO1W .mbr-iconfont{font-size: 6rem;color: #ffffff;}.cid-qPmx8fhO1W h2{margin-bottom: 1rem;}.cid-qPmx8fhO1W .card-img{margin: auto;}.cid-qPmx8fhO1W .relative{position: relative;margin: auto;min-height: 400px;background-image: url("assets/images/img-2.jpg");background-position: center;background-size: cover;border: none;border-radius: 2rem;box-shadow: 0px 0px 60px 10px rgba(0,0,0,0.3);}.cid-qPmx8fhO1W .mbr-section-title B{color: #ffffff;}.cid-qPmx8fhO1W .video-title B{color: #0a193b;}.cid-qPmx8fhO1W .lightbox{background: rgba(0,0,0,0.8);width: 100%;height: 100%;position: absolute;display: flex;align-items: center;justify-content: center;}.cid-qPmx8fhO1W .video-block{width: 100%;}@media (max-width: 768px){.cid-qPmx8fhO1W .mbr-text{text-align: center;}}.cid-qPmxcwToMV{padding-top: 7rem;padding-bottom: 7rem;background-color: #2bb4c5;background: linear-gradient(135deg,#2bb4c5 0%,#3c5ca2 100%);}.cid-qPmxcwToMV .mbr-overlay{background: linear-gradient(135deg,#000000 0%,#022e93 100%);opacity: 0.5;}.cid-qPmxcwToMV .mbr-section-title{color: #ffffff;text-align: center;}.cid-qPmxcwToMV .mbr-text,.cid-qPmxcwToMV .mbr-section-btn{color: #ffffff;text-align: center;}.cid-qPmx2uf9E6{padding-top: 5rem;padding-bottom: 5rem;background-color: #f1f4fa;}.cid-qPmx2uf9E6 .mbr-overlay{background: linear-gradient(135deg,#000000 0%,#022e93 100%);opacity: 0.5;}.cid-qPmx2uf9E6 .line{width: 40%;height: 4px;background-color: #0a193b;margin-left: -2rem;margin-top: 0.5rem;margin-bottom: 0.5rem;}.cid-qPmx2uf9E6 .mbr-text,.cid-qPmx2uf9E6 .mbr-section-btn{color: #0a193b;text-align: left;}.cid-qPmx2uf9E6 .block-1{background: linear-gradient(135deg,#783396 0%,#fede9a 100%);padding: 2rem 3rem;border-radius: 2rem;margin-bottom: 2rem;margin-left: 4rem;margin-right: 2rem;box-shadow: 0px 0px 15px 3px rgba(0,0,0,0.3);}.cid-qPmx2uf9E6 .block-2{background: linear-gradient(135deg,#117bb1 0%,#d0f2c8 100%);padding: 2rem 3rem;border-radius: 2rem;margin-bottom: 2rem;margin-right: 4rem;margin-left: 2rem;box-shadow: 0px 0px 15px 3px rgba(0,0,0,0.3);}.cid-qPmx2uf9E6 .block-3{background: linear-gradient(135deg,#361291 0%,#a54997 100%);padding: 2rem 3rem;border-radius: 2rem;margin-bottom: 2rem;margin-left: 4rem;margin-right: 2rem;box-shadow: 0px 0px 15px 3px rgba(0,0,0,0.3);}.cid-qPmx2uf9E6 .mbr-section-title{color: #0a193b;text-align: left;}.cid-qPmx2uf9E6 .block1{color: #ffffff;}.cid-qPmx2uf9E6 .mbr-iconfont{font-size: 2rem;color: #ffffff;padding-right: 1rem;}.cid-qPmx2uf9E6 p{margin: 0;line-height: 25px;}.cid-qPmx2uf9E6 h1{margin: 0;}.cid-qPmx2uf9E6 .mbr-form{padding-top: 1rem;}.cid-qPmx2uf9E6 .area{width: 100%;}.cid-qPmx2uf9E6 label.input-label{padding: 10px;}.cid-qPmx2uf9E6 .bgwhite{background-color: transparent;padding: 20px;}.cid-qPmx2uf9E6 textarea{width: 100%;background-color: transparent;border: none;border-bottom: 2px solid lightgray;}.cid-qPmx2uf9E6 input{width: 100%;background-color: transparent;border: none;border-bottom: 2px solid lightgray;}.cid-qPmx2uf9E6 .block1 B{color: #ffffff;}@media (max-width: 992px){.cid-qPmx2uf9E6 .block-1,.cid-qPmx2uf9E6 .block-2,.cid-qPmx2uf9E6 .block-3{margin: 1rem 0.5rem;padding: 1rem 2rem;border-radius: 1rem;}}.cid-qPmx3vahT3{padding-top: 4rem;padding-bottom: 5rem;background-color: #0a193b;background: linear-gradient(135deg,#0a193b 0%,#0a57a2 100%);}.cid-qPmx3vahT3 .mbr-overlay{background: linear-gradient(135deg,#000000 0%,#022e93 100%);opacity: 0.5;}.cid-qPmx3vahT3 amp-img{width: 90px;margin: auto;margin-bottom: 2rem;}.cid-qPmx3vahT3 ul{display: flex;flex-direction: column;list-style: none;padding: 0;}.cid-qPmx3vahT3 .link{margin: 1rem;letter-spacing: 2px;}.cid-qPmx3vahT3 .navbar-logo{width: 100px;height: 100px;margin: auto;margin-bottom: 2rem;}.cid-qPmx3vahT3 .mbr-section-title{color: #ffffff;}.cid-qPmx3vahT3 .mbr-text,.cid-qPmx3vahT3 .mbr-section-btn{color: #6394ff;}.cid-qPmx3vahT3 .ico-wrapper{flex-direction: row;display: flex;align-items: center;justify-content: center;flex-wrap: wrap;}.cid-qPmx3vahT3 .card-img{border: 2px solid #6394ff;border-radius: 0.5rem;width: 45px;margin: 5px;height: 45px;position: relative;display: flex;align-items: center;justify-content: center;transition: all 0.3s;}.cid-qPmx3vahT3 .card-img:hover{background-color: #6394ff;}.cid-qPmx3vahT3 .mbr-iconfont{font-size: 24px;color: #ffffff;}.cid-qPmx3vahT3 .card-img a{position: absolute;width: 100%;height: 100%;display: flex;justify-content: center;align-items: center;}</style>
+ 
+  <script async  src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+  <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
+  <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+  <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+  <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.1.js"></script>
+  <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+  
+  
+</head>
+<body><amp-sidebar id="sidebar" class="cid-qPygOsy71w" layout="nodisplay" side="right">
+        <div class="builder-sidebar" id="builder-sidebar">
+            <button on="tap:sidebar.close" class="close-sidebar">
+                <span></span>
+                <span></span>
+            </button>
+        
+                
+                <ul class="navbar-nav nav-dropdown navbar-nav-top-padding" data-app-modern-menu="true"><li class="nav-item">
+                        <a class="nav-link link text-white display-7" href="https://mobirise.com/">
+                            <strong>HOME</strong>
+                        </a>
+
+                    </li><li class="nav-item"><a class="nav-link link text-white display-7" href="https://klpdh.blogspot.com/">
+                            <strong>SERVICES</strong>
+                        </a></li><li class="nav-item"><a class="nav-link link text-white display-7" href="https://klpdh.blogspot.com/">
+                            <strong>ABOUT US</strong>
+                        </a></li>
+                    
+                    <li class="nav-item dropdown open">
+                        <a class="nav-link link text-white dropdown-toggle display-7" data-toggle="dropdown-submenu" aria-expanded="true">
+                            <strong>MORE DEMOS</strong>
+                        </a><div class="dropdown-menu"><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/Turkish drama/index.html">Application App</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/coworking/index.html">Co-working</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startp/business/index.html">Blogger</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/headers.html">Headers</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/features.html" aria-expanded="true">Features</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/tabs-accordions.html" aria-expanded="false">Tabs &amp; Accordions</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/contents.html" aria-expanded="false">Contents</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/sliders-videos.html" aria-expanded="false">Sliders &amp; Video</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/forms.html" aria-expanded="true">Team &amp; Forms</a><a class="text-white dropdown-item display-7" href="https://mobirise.com/extensions/startupamp/socials.html" aria-expanded="false">Socials &amp; Maps</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/footers.html" aria-expanded="false">Footers</a></div>
+                    </li></ul>
+
+                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-white display-7" href="https://klpdh.blogspot.com/">CONTACT US</a></div>
+            </div>
+    </amp-sidebar>
+
+<!-- Google Analytics -->
+<amp-analytics type="googleanalytics" id="analytics1">
+<script type="application/json">
+{
+  "vars": {
+    "account": "UA-63126154-1"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
+<!-- /Google Analytics -->
+
+
+  <section class="menu horizontal-menu cid-qPygOsy71w" id="menu1-h">
+
+    
+
+
+    <nav class="navbar navbar-dropdown  navbar-fixed-top navbar-expand-lg">
+        <div class="container">
+            
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                
+                <ul class="navbar-nav nav-dropdown navbar-nav-top-padding" data-app-modern-menu="true"><li class="nav-item">
+                        <a class="nav-link link text-white display-7" href="https://klpdh.blogspot.com/">
+                            <strong>HOME</strong>
+                        </a>
+
+                    </li><li class="nav-item"><a class="nav-link link text-white display-7" href="https://klpdh.blogspot.com/">
+                            <strong>SERVICES</strong>
+                        </a></li><li class="nav-item"><a class="nav-link link text-white display-7" href="https://klpdh.blogspot.com/">
+                            <strong>ABOUT US</strong>
+                        </a></li>
+                    
+                    <li class="nav-item dropdown open">
+                        <a class="nav-link link text-white dropdown-toggle display-7" data-toggle="dropdown-submenu" aria-expanded="true">
+                            <strong>MORE DEMOS</strong>
+                        </a><div class="dropdown-menu"><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/MobiSAKE/index.html">Mobile App</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/coworking/index.html">Co-working</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/blog/index.html">Bus Series</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/headers.html">Headers</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/features.html" aria-expanded="false">Features</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/tabs-accordions.html" aria-expanded="false">Tabs &amp; Accordions</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/contents.html" aria-expanded="false">Contents</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/sliders-videos.html" aria-expanded="false">Sliders &amp; Video</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/forms.html" aria-expanded="false">Team &amp; Forms</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/socials.html" aria-expanded="false">Socials &amp; Maps</a><a class="text-white dropdown-item display-7" href="https://klpdh.blogspot.com/extensions/startupamp/footers.html" aria-expanded="false">Footers</a></div>
+                    </li></ul>
+
+                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-white display-7" href="https://klpdh.blogspot.com/">CONTACT US</a></div>
+            </div>
+            
+
+        </div>
+    </nav>
+
+    <!-- AMP plug -->
+    
+
+    <button on="tap:sidebar.toggle" class="ampstart-btn hamburger sticky-but">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+
+
+
+</section>
+
+<section class="header1 cid-qPmwLlprpQ" id="header1-0">
+
+    
+    <div class="mbr-overlay"></div>
+
+    <div class="container">
+        <div class="mbr-row mbr-justify-content-left">
+            <div class="mbr-col-lg-6 mbr-col-md-12">
+                <h1 class="mbr-fonts-style mbr-section-title display-3">BLUE<strong> Co-working Template</strong></h1>
+                <p class="mbr-fonts-style mbr-text display-5">Dive into the co-working space to notice what the team work term means. While working with AMP HTML Co-Working Template you can share not only working spaces, but also ideas, thoughts and impressions.</p>
+                <div class="mbr-section-btn"><a class="btn btn-lg mbr-editable-button btn-white display-7" href="https://klpdh.blogspot.com">
+                        <span class="fa fa-play-circle mbr-iconfont mbr-iconfont-btn"></span>GET STARTED</a></div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="features1 cid-qPmwO3Sy9r" id="features1-2">
+
+    
+    
+
+    <div class="container">
+        <div class="mbr-row mbr-justify-content-center">
+            <div class="mbr-col-lg-1 mbr-col-md-2 align-center">
+                <span class="mbr-iconfont fa-lightbulb-o fa"></span>
+            </div>
+            <div class="mbr-col-lg-5 mbr-col-md-10 vcenter padding">
+                <h2 class="mbr-fonts-style mbr-section-title display-5">
+                    <strong>Realize </strong>The Best Ideas
+                </h2>
+                <p class="mbr-fonts-style mbr-text display-6">Co-working is the most profitable activily in particular for startups. Share your thougts with&nbsp;AMP HTML Co-working Template.</p>
+            </div>
+            <div class="mbr-col-lg-1 mbr-col-md-2 align-center">
+                <span class="mbr-iconfont fa-diamond fa"></span>
+            </div>
+            <div class="mbr-col-lg-5 mbr-col-md-10 vcenter padding">
+                <h2 class="mbr-fonts-style mbr-section-title display-5">
+                    <strong>Create </strong>An Effective Team
+                </h2>
+                <p class="mbr-fonts-style mbr-text display-6">AMP HTML Co-working Template will help you find your people to work with. You will notice that your team will stick together whatever problem you face.</p>
+            </div>
+        </div>
+        <div class="mbr-row mbr-justify-content-center">
+            <div class="mbr-col-lg-1 mbr-col-md-2 align-center">
+                <span class="mbr-iconfont fa-comments-o fa"></span>
+            </div>
+            <div class="mbr-col-lg-5 mbr-col-md-10 vcenter padding">
+                <h2 class="mbr-fonts-style mbr-section-title display-5">
+                    <strong>Manage </strong>A Talented Team
+                </h2>
+                <p class="mbr-fonts-style mbr-text display-6">Thanks to AMP HTML Co-working Template you can lead your working process in the right direction and help your team achieve objectives.</p>
+            </div>
+            <div class="mbr-col-lg-1 mbr-col-md-2 align-center">
+                <span class="mbr-iconfont fa-send-o fa"></span>
+            </div>
+            <div class="mbr-col-lg-5 mbr-col-md-10 vcenter padding">
+                <h2 class="mbr-fonts-style mbr-section-title display-5">
+                    <strong>Launch </strong>A Unique Project
+                </h2>
+                <p class="mbr-fonts-style mbr-text display-6">More people implies more ideas. Use&nbsp;Aate to create project noone has ever seen before.</p>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+
+<section class="content2 cid-qPmwY2TwFk" id="content2-4">
+
+    
+    
+
+    <div class="container">
+        <div class="mbr-row">
+            <div class="mbr-col-lg-12 mbr-col-md-12">
+                <h1 class="mbr-fonts-style mbr-section-title display-2"><strong>Create an Ideal Workplace</strong></h1>
+                <p class="mbr-fonts-style mbr-text display-5">There are lots of benefits you can make use of while working on your project using A Co-working Temple. Co-working spaces make you relax, concentrate on your own objectives and learn from other people. Co-work can let you discover new boundaries of your projects and this is what&nbsp;A Co-working Template is meant for.</p>
+                <div class="mbr-section-btn">
+                    <a class="btn btn-lg mbr-editable-button btn-info display-7" href="https://klpdh.blogspot.com">GET STARTED</a>
+                    <a class="btn btn-lg mbr-editable-button btn-white display-7" href="https://klpdh.blogspot.com">MORE INFO</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="video2 cid-qPmx8fhO1W" id="video2-7">
+
+    
+    
+
+    <div class="container">
+
+        <div class="mbr-row mbr-justify-content-center relative">
+
+
+            <div class="mbr-col-lg-5 wrapper mbr-col-md-6 mbr-col-sm-6">
+                <h2 class="mbr-fonts-style mbr-section-title display-2"><strong>AMP Tutorial</strong></h2>
+                <p class="mbr-fonts-style mbr-text display-5">Learn what is A Question</p>
+
+            </div>
+            <div class="mbr-col-lg-5 wrapper mbr-col-md-6 mbr-col-sm-6">
+
+                <div class="card-img iconbox">
+                    <span class="amp-iconfont mbr-iconfont fa-play-circle-o fa" on="tap:my-lightbox" role="button" tabindex="0"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <amp-lightbox id="my-lightbox" layout="nodisplay">
+        <div class="lightbox" on="tap:my-lightbox.close" role="button" tabindex="0">
+            <div class="container">
+                <div class="video-block"><amp-youtube width="16" height="9" layout="responsive" data-videoid="lBTCB7yLs8Y"></amp-youtube>
+                    
+                </div>
+            </div>
+        </div>
+    </amp-lightbox>
+
+</section>
+
+<section class="content7 cid-qPmxcwToMV" id="content7-8">
+
+    
+    
+
+    <div class="container">
+        <div class="mbr-row">
+            <div class="mbr-col-lg-12 mbr-col-md-12">
+                
+                
+                <div class="mbr-section-btn">
+                    <a class="btn btn-lg mbr-editable-button btn-primary display-7" href="https://klpdh.blogspot.com">GET STARTED</a>
+                    <a class="btn btn-lg mbr-editable-button btn-white display-7" href="https://klpdh.blogspot.com">MORE INFO</a>
+                    <a class="btn btn-lg mbr-editable-button btn-black display-7" href="https://klpdh.blogspot.com">CONTACT US</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="form1 cid-qPmx2uf9E6" id="form1-5">
+
+    
+    
+    <div class="container">
+        <div class="mbr-row mbr-justify-content-center">
+            <div class="mbr-col-lg-7 mbr-col-md-12">
+                <div class="block-1">
+                    <h2 class="mbr-fonts-style block1 display-4">
+                        <span class="mbr-iconfont fa-comments fa"></span>
+                        <strong>Create </strong>Team</h2>
+                    <p class="mbr-fonts-style block1 display-6">
+                        Co-work makes you realize the importance of what you are working on. Let&nbsp;A Co-working Temple help you succeed at launhcing your startup project.</p>
+                </div>
+                <div class="block-2">
+                    <h2 class="mbr-fonts-style block1 display-4">
+                        <span class="fa fa-lightbulb-o mbr-iconfont"></span>
+                        <strong>Realize </strong>Ideas</h2>
+                    <p class="mbr-fonts-style block1 display-6">Team work let you feel like an essential part of a thriving community. You will have more control over thought and ideas while using&nbsp;ACo-working Template based on  code.</p>
+                </div>
+                <div class="block-3">
+                    <h2 class="mbr-fonts-style block1 display-4">
+                        <span class="fa fa-send-o mbr-iconfont"></span>
+                        <strong>Launch </strong>Project</h2>
+                    <p class="mbr-fonts-style block1 display-6">Let your startup project grow with&nbsp;ACo-working Temple. Your co-workers can provide a good assistance in your working process. Launch a  temple as fast as possible.</p>
+                </div>
+            </div>
+            <div class="mbr-col-lg-5 mbr-col-md-8 mbr-col-sm-12">
+                <h1 class="mbr-fonts-style mbr-section-title display-2">
+                    <strong>Contact Us</strong>
+                </h1>
+                <p class="mbr-fonts-style mbr-text display-5">Contact us to know more about AMP HTML Co-working Template and its capabilities. Push the limits and realize your objectives.</p>
+                <div class="line"></div>
+                <div data-form-type="formoid">
+                    <form class="mbr-form" method="post" target="_top" action-xhr="https://formoid.net/api/amp-form/push" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="ZfEoBt3z8rSXLJqcZUBx5z8hFRNtaxKctQljfwVApbrA5GMzKq3QMT6cqeAyxnXj11MVQ8domABI55kr7eX2B8X6VQuyb3apIXuzI+zQiiWJVpjsV7tbMZMAPmj5Kitu">
+                        <div submit-success="">
+                            <template data-form-alert="" type="amp-mustache">Subscription successful!</template>
+                        </div>
+                        <div submit-error="">
+                            <template data-form-alert="" type="amp-mustache">Subscription successful!</template>
+                        </div>
+                        <div class="fieldset">
+                            <input type="hidden" name="form[data][1][0]" value="Name" id="form[data][1][0]-form1-5" data-form-field="">
+                            <input class="input-label" type="text" name="form[data][1][1]" data-form-field="Name" placeholder="Name" required="" id="form[data][1][1]-form1-5">
+                            <input type="hidden" name="form[data][2][0]" value="Phone" id="form[data][2][0]-form1-5" data-form-field="">
+                            <input class="input-label" type="phone" name="form[data][2][1]" data-form-field="Phone" placeholder="Phone" required="" id="form[data][2][1]-form1-5">
+                            <input type="hidden" name="form[data][0][0]" value="Email" id="form[data][0][0]-form1-5" data-form-field="">
+                            <input class="input-label" type="email" name="form[data][0][1]" data-form-field="Email" placeholder="Email" required="" id="form[data][0][1]-form1-5">
+                            <label class="area">
+                                <input type="hidden" name="form[data][3][0]" value="Message" id="form[data][3][0]-form1-5" data-form-field="">
+                                <textarea name="form[data][3][1]" rows="7" data-form-field="Message" placeholder="Message" id="form[data][3][1]-form1-5"></textarea>
+                            </label>
+                        </div>
+                        <div class="align-left">
+                            <div class="mbr-section-btn">
+                                <button type="submit" class="btn btn-danger display-7">SEND MESSAGE</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="footer1 cid-qPmx3vahT3" id="footer1-6">
+
+    
+    
+
+    <div class="container">
+        <div class="mbr-row mbr-justify-content-center">
+            <div class="mbr-col-lg-8 mbr-col-md-12 align-center">
+
+
+                <div>
+                    <amp-img src="assets/images/logo.png" layout="responsive" width="90" height="90" alt="Mobirise">
+                        
+                    </amp-img>
+                </div>
+
+
+                <ul data-app-modern-menu="true">
+                    <li class="nav-item">
+                        <a class="mbr-fonts-style link text-white display-7" href="https://klpdh.blogspot.com">
+                            <strong>HOME</strong>
+                        </a>
+                        <a class="mbr-fonts-style link text-white display-7" href="https://klpdh.blogspot.com">
+                            <strong>ABOUT</strong>
+                        </a>
+                        <a class="mbr-fonts-style link text-white display-7" href="https://klpdh.blogspot.com">
+                            <strong>CONTACTS</strong>
+                        </a>
+                        <a class="mbr-fonts-style link text-white display-7" href="https://klpdh.blogspot.com">
+                            <strong>SUPPORT</strong>
+                        </a>
+                        <a class="mbr-fonts-style link text-white display-7" href="https://klpdh.blogspot.com">
+                            <strong>INFO</strong>
+                        </a>
+
+
+
+                    </li>
+                </ul>
+
+
+                <p class="mbr-fonts-style mbr-text display-6">Have Co-working Temple will help you find a spot among workers like you.</p>
+
+
+
+
+
+
+
+                <div class="ico-wrapper">
+                    <div class="card-img">
+                        <a href="https://twitter.com/tauhid_anwer">
+                            <span class="mbr-iconfont fa-twitter fa"></span>
+                        </a>
+                    </div>
+                    <div class="card-img">
+                        <a href="https://www.facebook.com/babatauhid/">
+                            <span class="mbr-iconfont fa-facebook-f fa"></span>
+                        </a>
+                    </div>
+                    <div class="card-img">
+                        <a href="https://plus.google.com/u/0/+bluesake">
+                            <span class="mbr-iconfont fa-google-plus fa"></span>
+                        </a>
+                    </div>
+                    <div class="card-img">
+                        <a href="https://www.youtube.com/channel/UCt_tnc">
+                            <span class="mbr-iconfont fa-youtube-play fa"></span>
+                        </a>
+                    </div>
+                    <div class="card-img">
+                        <a href="https://www.instagram.com/babatauhid/">
+                            <span class="mbr-iconfont fa-instagram fa"></span>
+                        </a>
+                    </div>
+                    <div class="card-img">
+                        <a href="https://ru.pinterest.com/bluesake9/">
+                            <span class="mbr-iconfont fa-pinterest-p fa"></span>
+                        </a>
+                    </div>
+                    <div class="card-img">
+                        <a href="https://bluesake9.tumblr.com/">
+                            <span class="mbr-iconfont fa-tumblr fa"></span>
+                        </a>
+                    </div>
+                    <div class="card-img">
+                        <a href="https://www.linkedin.com/in/bluesake">
+                            <span class="mbr-iconfont fa-linkedin fa"></span>
+                        </a>
+                    </div>
+                    <div class="card-img">
+                        <a href="#">
+                            <span class="mbr-iconfont fa-vk fa"></span>
+                        </a>
+                    </div>
+                    <div class="card-img">
+                        <a href="#">
+                            <span class="mbr-iconfont fa-odnoklassniki fa"></span>
+                        </a>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+  
+  
+</body>
+</html>

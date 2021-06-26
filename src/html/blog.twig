@@ -1,0 +1,24 @@
+{% extends '_base.twig' %}
+
+{% block content %}
+    {% if hero_image %}
+        {% embed 'blocks/image.twig' with {
+            src: hero_image, alt: 'A blog hero image', classes: 'mb2',
+            srcset: [{
+                _w_docs: 'w = width in pixels',
+                w: '320',
+            },{
+                _w_docs: 'w = width in pixels',
+                w: '680',
+            },{
+                _w_docs: 'w = width in pixels',
+                w: '920',
+            }],
+            sizes: '(max-width: 320px) 320px, (max-width: 600px) 680px, 100vw',
+        } %}
+        {% endembed %}
+    {% endif %}
+    <section class="container container-medium container-fixed px2">
+        {{ content }}
+    </section>
+{% endblock %}

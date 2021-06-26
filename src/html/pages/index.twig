@@ -1,0 +1,73 @@
+{% extends '_base.twig' %}
+
+{% block content %}
+    <section class="container container-medium container-fixed px2">
+        <h1 class="demo-title bold normal mt0 px2">Create AMP Page Starter
+            <a href="https://github.com/bemit/create-amp-page-starter" class="align-top">
+                {% include 'icons/GitHub.twig' %}
+            </a>
+        </h1>
+        <p class="body1 px2">
+            Example <a href="https://amp.dev" rel="noreferrer noopener" target="_blank">AMP</a>
+            page, build handling by
+            <a href="https://github.com/bemit/create-amp-page" rel="noreferrer noopener" target="_blank">create-amp-page</a> and styling with
+            <a href="https://formanta.bemit.codes" rel="noreferrer noopener" target="_blank">@formanta-sass</a>.
+        </p>
+        <p class="body1 mt1 mb0 px2">
+            Checkout the repository, install dependencies, develop, build and add files on a webspace!
+        </p>
+        <pre class="px2">
+            <code>git clone https://github.com/bemit/create-amp-page-starter.git
+npm i
+npm start
+npm run build
+npm run tasks
+</code></pre>
+    </section>
+    <section class="container container-medium container-fixed px2">
+        <div class="flex flex-wrap grid">
+            <div class="col col-12 col-md-4">
+                <div class="panel">
+                    <div class="panel-head">
+                        <h2 class="panel-title">Demo Blog</h2>
+                    </div>
+                    <div class="panel-body">
+                        <p class="body1">Lorem ipsum dolor sit amet consetutor adipisci...</p>
+                    </div>
+                    <div class="panel-footer">
+                        <a class="btn btn-primary-o no-link" href="/blog/2020-09-27-demo-blog">more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col col-12 col-md-4">
+                <div class="panel">
+                    <div class="panel-head">
+                        <h2 class="panel-title">Demo About</h2>
+                    </div>
+                    <div class="panel-body">
+                        <p class="body1">Lorem ipsum dolor sit amet consetutor adipisci...</p>
+                    </div>
+                    <div class="panel-footer">
+                        <a class="btn btn-primary-o no-link" href="/blog/2020-09-27-demo-blog-about">more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col col-12 col-md-4">
+                <div class="panel">
+                    <div class="panel-head">
+                        <h2 class="panel-title">Panel 3</h2>
+                    </div>
+                    <div class="panel-body">
+                        <p class="body1">Lorem ipsum dolor sit amet consetutor adipisci...</p>
+                    </div>
+                    <div class="panel-footer">
+                        <a class="btn btn-primary-o no-link">more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="container container-medium container-fixed px2">
+        {{ content }}
+    </section>
+{% endblock %}
